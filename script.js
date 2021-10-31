@@ -12,6 +12,7 @@ const makeList = (name,dp)=>{
     <div  style="width: 18rem;">
     <a href="#${name}">
   <img src="${dp}" class="card-img-top" alt="...">
+  <h4>${name}</h4>
   
   </a>
 </div>
